@@ -32,4 +32,4 @@ This is a **Python-based console project** that organizes files in a selected fo
 3. Run the script:
 
 ```bash
-python clear_and_clutter.py
+python clear_clutter.py
